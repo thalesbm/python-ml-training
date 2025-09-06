@@ -3,3 +3,5 @@ watermark
 scikit-learn
 seaborn
 pandas
+numpy
+matplotlib

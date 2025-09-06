@@ -1,7 +1,7 @@
 import pandas as pd
 from dataset import load
 from graphs import display_graph
-from training import make_supervised
+from training import training
 
 def main():
     print("Iniciando aplicação")
@@ -10,7 +10,7 @@ def main():
 
     # display_graph(dataset=dataset)
 
-    make_supervised(dataset=dataset)
+    training(dataset=dataset)
 
 if __name__ == "__main__":
     main()
