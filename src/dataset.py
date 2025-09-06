@@ -18,7 +18,6 @@ def clear_dataset(dataset: pd.DataFrame) -> pd.DataFrame:
     dataset = dataset[[
         "year", 
         "stage_name", 
-        "group_name", 
         "country_name",
         "team_a_name", 
         "team_b_name",
@@ -49,10 +48,10 @@ def print_dataset_info(dataset: pd.DataFrame) -> pd.DataFrame:
         print(dataset[nome_col].value_counts())
 
     print("--------------------------------------------------")
-    print(dataset.head(2))
-
-    print("--------------------------------------------------")
     print(dataset.info())
 
     print("--------------------------------------------------")
     print(dataset.columns)
+
+    print("--------------------------------------------------")
+    print(dataset.head(2))
