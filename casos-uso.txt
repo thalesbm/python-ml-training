@@ -1,29 +1,44 @@
-🔹 1. Classificação binária: prever vitória/derrota
-Problema: Dado o time da casa, o time visitante e algumas variáveis (rodada, mando de campo, últimos resultados), prever se o mandante vai ganhar.
-Alvo (target): resultado (Vitória mandante vs. Não vitória mandante).
-Modelos indicados: Regressão logística, Árvore de decisão, Random Forest.
-Valor didático: Bom para aprender a transformar uma variável categórica (time) em features, lidar com classes desbalanceadas e avaliar métricas como accuracy, precision, recall.
+🎯 Casos de uso possíveis
 
-🔹 2. Classificação multiclasse: prever resultado do jogo (M, E, V)
-Problema: Prever se o jogo vai terminar em vitória do mandante, empate ou vitória do visitante.
-Alvo: resultado (3 classes).
-Modelos indicados: Random Forest, XGBoost, Redes neurais simples.
-Valor didático: Mostra como lidar com multiclasse, análise de matriz de confusão e métricas como F1-score por classe.
+🔹 1. Classificação binária: prever vitória do time A
+Target: team_a_win (0 = não, 1 = sim).
 
-🔹 3. Regressão: prever número de gols
-Problema: Prever quantos gols o mandante (ou visitante) vai fazer no jogo.
-Alvo: gols_mandante ou gols_visitante.
-Modelos indicados: Regressão linear, Ridge/Lasso, Gradient Boosting Regressor.
-Valor didático: Trabalhar com variáveis numéricas, métricas de regressão (RMSE, MAE, R²).
+- Features possíveis:
+    - year (ou década, como feature temporal)
+    - stage_name (fase do torneio)
+    - group_name
+    - team_a_code, team_b_code (transformados com encoding)
 
-🔹 4. Séries temporais: previsão de pontos de um time
-Problema: Para um time específico, prever quantos pontos ele fará nos próximos jogos com base nos jogos anteriores.
-Alvo: Pontos acumulados por rodada.
-Modelos indicados: ARIMA, Prophet, LSTM.
-Valor didático: Introduz modelagem temporal, que é muito usada em ML para previsão de demanda, finanças, etc.
+Modelos indicados: Regressão logística, Random Forest, XGBoost.
+- Valor didático: começar com classificação binária simples.
 
-🔹 5. Aprendizado não supervisionado: agrupar times por estilo
-Problema: Agrupar times com base em estatísticas (média de gols, vitórias fora de casa, saldo).
-Alvo: não supervisionado (sem target).
-Modelos indicados: K-Means, DBSCAN, PCA para reduzir dimensionalidade.
-Valor didático: Entender clustering e visualização de dados.
+🔹 2. Classificação multiclasse: prever resultado (Vitória A / Vitória B / Empate)
+Target: você pode criar uma coluna única a partir de team_a_win, team_b_win e draw.
+
+- Features: mesmas do caso 1.
+
+Modelos: Random Forest, Gradient Boosting, Redes neurais simples.
+- Valor didático: introduz multiclasse, avaliação com matriz de confusão.
+
+🔹 3. Regressão: prever o número de gols de um time
+Target: team_a_score ou team_b_score.
+
+- Features: stage_name, group_name, encoding de times.
+
+Modelos: Regressão linear, Ridge/Lasso, Gradient Boosting Regressor.
+- Valor didático: aprender métricas de regressão (RMSE, MAE).
+
+🔹 4. Prever probabilidade de empate
+Target: draw.
+
+- Features: times, fase, ano, grupo.
+Valor didático: caso de classificação altamente desbalanceado (empates são raros em mata-mata), ótimo para aprender class imbalance techniques (resampling, class weights).
+
+🔹 5. Clustering: agrupar seleções por estilo ao longo das Copas
+
+- Features: estatísticas agregadas (média de gols feitos/sofridos por edição).
+
+Objetivo: descobrir padrões — ex.: times que historicamente marcam muito, mas sofrem também (Brasil anos 50), vs. defesas sólidas (Itália anos 80).
+
+Modelos: K-Means, PCA para redução de dimensionalidade.
+Valor didático: prática em aprendizado não supervisionado.
