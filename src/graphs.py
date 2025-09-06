@@ -32,3 +32,16 @@ def _column_graph(dataset: pd.DataFrame):
     plt.xticks(rotation=45, ha='right')
     plt.tight_layout()
     plt.show()
+
+def compare_graphs(X_treino: pd.DataFrame, X_treino_scaled: pd.DataFrame):
+    print("compare_graphs()")
+
+    fig, ax = plt.subplots(1, 2, figsize = (15, 5))
+
+    sns.boxplot(data = X_treino, ax = ax[0])
+    ax[0].set_title('X_treino Antes da Padronização')
+
+    sns.boxplot(data = X_treino_scaled, ax = ax[1])
+    ax[1].set_title('X_treino Depois da Padronização')
+
+    plt.show()

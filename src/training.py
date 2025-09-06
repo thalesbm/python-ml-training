@@ -1,19 +1,12 @@
 import numpy as np
 import pandas as pd
 import pickle
+from graphs import compare_graphs
 
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
-from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LogisticRegression
 from sklearn.linear_model import LinearRegression
-from sklearn.model_selection import GroupKFold
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, f1_score, classification_report
-
-import matplotlib.pyplot as plt
-import seaborn as sns
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 def training(dataset: pd.DataFrame):
     print("training()")
@@ -22,10 +15,17 @@ def training(dataset: pd.DataFrame):
 
     X_treino_scaled, X_teste_scaled = _padronize_dataset(X_treino=X_treino, X_teste=X_teste)
 
-    _compare_graphs(X_treino=X_treino, X_treino_scaled=X_treino_scaled)
+    # compare_graphs(X_treino=X_treino, X_treino_scaled=X_treino_scaled)
 
-    print(X_treino_scaled)
+    model = _training_model_linear_regression(X_treino_scaled=X_treino_scaled, y_treino=y_treino)
 
+    y_pred_v1 = model.predict(X_teste_scaled)
+
+    # Métricas
+    print('Mean Absolute Error (MAE):', round(mean_absolute_error(y_teste, y_pred_v1),3))  
+    print('Root Mean Squared Error (RMSE):', round(np.sqrt(mean_squared_error(y_teste, y_pred_v1)),3))
+    print('Root Mean Squared Log Error (RMSLE):', round(np.log(np.sqrt(mean_squared_error(y_teste, y_pred_v1))),3))
+    print('R2 Score:', round(r2_score(y_teste, y_pred_v1),6))
 
 def _create_training_dataset(dataset: pd.DataFrame):
     print("_create_training_dataset()")
@@ -55,15 +55,15 @@ def _padronize_dataset(X_treino: pd.DataFrame, X_teste: pd.DataFrame):
 
     return X_treino_scaled, X_teste_scaled
 
-def _compare_graphs(X_treino: pd.DataFrame, X_treino_scaled: pd.DataFrame):
-    print("_compare_graphs()")
+def _training_model_linear_regression(X_treino_scaled: pd.DataFrame, y_treino: pd.DataFrame):  
+    print("_training_model_linear_regression()")
 
-    fig, ax = plt.subplots(1, 2, figsize = (15, 5))
+    model = LinearRegression()
+    model.fit(X_treino_scaled, y_treino)
 
-    sns.boxplot(data = X_treino, ax = ax[0])
-    ax[0].set_title('X_treino Antes da Padronização')
+    print(model.coef_)
+    print(model.intercept_)
 
-    sns.boxplot(data = X_treino_scaled, ax = ax[1])
-    ax[1].set_title('X_treino Depois da Padronização')
+    print(model.get_params())
 
-    plt.show()
+    return model
