@@ -1,14 +1,21 @@
 import matplotlib.pyplot as plt
+import seaborn as sns
 import pandas as pd
 
-def display_graph(df: pd.DataFrame):
+def display_graph(dataset: pd.DataFrame):
+    print("display_graph()")
+
+    _column_graph(dataset=dataset)
+
+def _column_graph(dataset: pd.DataFrame):
+    print("_column_graph()")
 
     graph_dataset = pd.concat([
-        df[['year', 'team_a_name', 'team_a_score']].rename(
-            columns={'team_a_name': 'team', 'team_a_score': 'goals'}
+        dataset[['year', 'team_a_code', 'team_a_score']].rename(
+            columns={'team_a_code': 'team', 'team_a_score': 'goals'}
         ),
-        df[['year', 'team_b_name', 'team_b_score']].rename(
-            columns={'team_b_name': 'team', 'team_b_score': 'goals'}
+        dataset[['year', 'team_b_code', 'team_b_score']].rename(
+            columns={'team_b_code': 'team', 'team_b_score': 'goals'}
         ),
     ], ignore_index=True)
 

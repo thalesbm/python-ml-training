@@ -17,10 +17,10 @@ def clear_dataset(dataset: pd.DataFrame) -> pd.DataFrame:
 
     dataset = dataset[[
         "year", 
-        "stage_name", 
-        "country_name",
-        "team_a_name", 
-        "team_b_name",
+        #"stage_name", 
+        #"country_name",
+        #"team_a_name", 
+        #"team_b_name",
         "team_a_code",
         "team_b_id_code",
         "team_a_score", 

@@ -7,7 +7,7 @@ def main():
     
     dataset = load()
 
-    # display_graph(dataset)
+    display_graph(dataset)
 
 if __name__ == "__main__":
     main()
