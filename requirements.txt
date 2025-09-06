@@ -1,0 +1,5 @@
+setuptools
+watermark
+scikit-learn
+seaborn
+pandas
