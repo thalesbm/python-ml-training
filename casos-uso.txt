@@ -27,11 +27,3 @@ Problema: Agrupar times com base em estatísticas (média de gols, vitórias for
 Alvo: não supervisionado (sem target).
 Modelos indicados: K-Means, DBSCAN, PCA para reduzir dimensionalidade.
 Valor didático: Entender clustering e visualização de dados.
-
-👉 Minha sugestão prática para começar:
-Passo 1: Monte um modelo simples de classificação binária (vitória mandante vs. não vitória).
-Passo 2: Evolua para multiclasse (M, E, V).
-Passo 3: Explore regressão (gols).
-Passo 4: Se animar, tente séries temporais para previsão de pontos.
-
-Assim você cobre praticamente todos os tipos de problemas de ML (classificação binária, multiclasse, regressão, séries temporais, clustering).
