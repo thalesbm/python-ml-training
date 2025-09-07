@@ -1,8 +1,8 @@
-from dataset.dataset import load
-from training.decision_tree import DecisionTreeAlgorithm
-from training.linear_regression import LinearRegressionAlgorithm 
-from training.random_forest import RandomForestAlgorithm
-from training.logistic_regression import LogisticRegressionAlgorithm
+from world_cup.dataset.dataset import load
+from world_cup.training.decision_tree import DecisionTreeAlgorithm
+from world_cup.training.linear_regression import LinearRegressionAlgorithm 
+from world_cup.training.random_forest import RandomForestAlgorithm
+from world_cup.training.logistic_regression import LogisticRegressionAlgorithm
 
 def main():
     print("Iniciando aplicação")

@@ -8,7 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import accuracy_score, f1_score, classification_report, confusion_matrix
 
-from dataset.training_dataset import create_training_dataset
+from world_cup.dataset.training_dataset import create_training_dataset
 
 class LogisticRegressionAlgorithm:
     

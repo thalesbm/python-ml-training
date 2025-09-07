@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-from dataset.training_dataset import create_training_dataset
+from world_cup.dataset.training_dataset import create_training_dataset
 
 class DecisionTreeAlgorithm:
 
