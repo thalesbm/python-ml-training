@@ -22,8 +22,10 @@ def load() -> pd.DataFrame:
 def _load_dataset() -> pd.DataFrame:
     print("_load_dataset()")
 
-    path = "../files/adult_outcome/salary.csv"
+    path = "files/adult_outcome/salary.csv"
     df: pd.DataFrame = pd.read_csv(path)
+
+    df = df[["age", "workclass", "education", "race", "sex", "native-country", "salary"]]
 
     return df
 
