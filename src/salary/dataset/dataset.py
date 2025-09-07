@@ -115,7 +115,7 @@ def _clear_column_education(df: pd.DataFrame) -> pd.DataFrame:
             .replace({"preschool": "school", "prof-school": "school"}))
 
 
-    map_education = {'hs-grad': 0, 'some-college': 1, 'bachelors': 2, 'school': 3, 'assoc': 4, 'masters': 5, 'doctorate': 6}
+    map_education = {"school": 0, "hs-grad": 1, "some-college": 2, "assoc": 3, "bachelors": 4, "masters": 5, "doctorate": 6 }
     df['education'] = df['education'].map(map_education)
 
     return df

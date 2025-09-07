@@ -9,8 +9,30 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # Execute os testes de validação
-python (arquivo desejado)
+python src/salary/main.py
+python src/world_cup/main.py
 ```
+
+| Técnica                    | Tipo de feature         | Serve pra quê                       | Usar quando…                                          |
+| -------------------------- | ----------------------- | ----------------------------------- | ----------------------------------------------------- |
+| **StandardScaler**         | Numéricas contínuas     | Normalizar escala                   | Modelos baseados em distância/gradiente               |
+| **One-Hot Encoding (OHE)** | Categóricas nominais    | Evitar ordens artificiais           | Modelos lineares/SVM/NN                               |
+| **Logistic + OHE**         | Numéricas + categóricas | Classificação linear, interpretável | Baseline, explicabilidade, datasets tabulares simples |
+
+Tipos de Dados:
+**Variáveis numéricas contínuas:** Contagem inteiras (número de filhos, número de compras)
+**Variaveis numéricas discretras:** Categorias COM ordem natural (nivel: junior > pleno > senior)
+**Variaveis categóricas nominais:** Categorias SEM ordem natural (comida: salada, pão, molho)
+**Variaveis categóricas ordinais:** Categorias COM ordem natural (nivel: junior > pleno > senior)
+**Alta cardinalidade:** Muitas categorias unicas, fica impossivel de categorizar (CEP, ID Produto)
+**Binária:** Sexo (0 / 1)
+
+
+### TO DO
+
+1. Entenda os tipos das colunas → 2. Entenda o tipo de alvo → 3. Escolha família de modelos → 4. Compare com baseline.
+
+Entender o objetivo
 
 **Etapa:** Problema           
 **Ação:** Formular tarefa & *target*
