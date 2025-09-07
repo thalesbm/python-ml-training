@@ -8,8 +8,8 @@ def init():
 
     dataset = load()
 
-    LogisticRegressionAlgorithm(dataset=dataset).training_model()
-    # RandomForestAlgorithm(dataset=dataset).training_model()
+    # LogisticRegressionAlgorithm(dataset=dataset).training_model()
+    RandomForestAlgorithm(dataset=dataset).training_model()
 
 if __name__ == "__main__":
     init()
