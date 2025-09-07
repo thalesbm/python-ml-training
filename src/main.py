@@ -1,5 +1,5 @@
 import pandas as pd
-from dataset import load
+from dataset.dataset import load
 from graphs import display_graph
 from training import training
 

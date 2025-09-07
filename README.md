@@ -3,7 +3,6 @@
 ### Execução
 
 ```bash
-
 # Ative o ambiente virtual (opcional)
 python -m venv .venv
 source .venv/bin/activate
@@ -11,46 +10,52 @@ pip install -r requirements.txt
 
 # Execute os testes de validação
 python (arquivo desejado)
-
 ```
 
-Etapa: Problema           
-Ação: Formular tarefa & *target*
-Objetivo: Ex.: prever **resultado A/D/B** por partida. Unidade = partida.  
+**Etapa:** Problema           
+**Ação:** Formular tarefa & *target*
+**Objetivo:** Ex.: prever **resultado A/D/B** por partida. Unidade = partida.  
 
-Etapa: Métrica & Baseline 
-Escolher métrica e baseline  
-**Macro-F1** (equilibra classes) + baseline da classe majoritária
+**Etapa:** Métrica & Baseline 
+**Ação:** Escolher métrica e baseline  
+**Objetivo:** **Macro-F1** (equilibra classes) + baseline da classe majoritária
 
-Auditoria
-Inspecionar dados
-`df.info()`, `isna()`, duplicatas, distribuição de `outcome`. 
+**Etapa:** Auditoria
+**Ação:**Inspecionar dados
+**Objetivo:** `df.info()`, `isna()`, duplicatas, distribuição de `outcome`. 
 
+**Etapa:** Split 
+**Ação:** Estratégia de separação 
+**Objetivo:** **GroupSplit por `year`** (ou hold-out por ano mais recente)
 
-Split 
-Estratégia de separação 
-**GroupSplit por `year`** (ou hold-out por ano mais recente)
+**Etapa:** Pré-processamento
+**Ação:** Tipos + imputação + encoding
+**Objetivo:** Categóricas (`stage_name`, `team_a_code`, `team_b_code`) → One-Hot; tratar `NaN`.
 
-| 5. Pré-processamento  | Tipos + imputação + encoding | Categóricas (`stage_name`, `team_a_code`, `team_b_code`) → One-Hot; tratar `NaN`. |
+**Etapa:** **Etapa:** Categorias raras
+**Ação:** Agrupar rótulos raros
+**Objetivo:** Reduz esparsidade e overfitting (ex.: mapear times muito raros para `OTHER`). 
+ 
+**Etapa:** Anti-vazamento
+**Ação:** Regras de features
+**Objetivo:** Usar **apenas** informações **pré-jogo**. Gols/flags só para criar o *target*.
 
+**Etapa:** Baseline
+**Ação:** Modelo simples
+**Objetivo:** Regressão Logística multinomial para probabilidades iniciais.     
 
-| 6. Categorias raras   | Agrupar rótulos raros        | Reduz esparsidade e overfitting (ex.: mapear times muito raros para `OTHER`). 
+**Etapa:** Validação
+**Ação:** CV por grupos
+**Objetivo:** `GroupKFold(year)`; reportar ACC e **Macro-F1** por fold.  
 
+**Etapa:** Tuning
+**Ação:** Hiperparâmetros
+**Objetivo:** Grid/Optuna; depois **refit** no conjunto de treino completo.  
 
-    |
-| 7. Anti-vazamento     | Regras de features           | Usar **apenas** informações **pré-jogo**. Gols/flags só para criar o *target*.    |
+**Etapa:** Avaliação final
+**Ação:** Hold-out + calibração
+**Objetivo:** Matriz de confusão; opcional `CalibratedClassifierCV`.   
 
-
-| 8. Baseline           | Modelo simples               | Regressão Logística multinomial para probabilidades iniciais.     
-
-                |
-| 9. Validação          | CV por grupos                | `GroupKFold(year)`; reportar ACC e **Macro-F1** por fold.  
-
-                       |
-| 10. Tuning            | Hiperparâmetros              | Grid/Optuna; depois **refit** no conjunto de treino completo.  
-
-                   |
-| 11. Avaliação final   | Hold-out + calibração        | Matriz de confusão; opcional `CalibratedClassifierCV`.   
-
-                         |
-| 12. Produção          | Empacotar pipeline           | `joblib.dump(pipe, ...)`; função `predict_proba` com checagem de entrada.
+**Etapa:** Produção
+**Ação:** Empacotar pipeline
+**Objetivo:** `joblib.dump(pipe, ...)`; função `predict_proba` com checagem de entrada.
