@@ -40,6 +40,6 @@ class LinearRegressionAlgorithm:
         scaler = StandardScaler()
         X_treino_scaled = scaler.fit_transform(X_treino)
         X_teste_scaled = scaler.transform(X_teste)
-        pickle.dump(scaler, open('model/dsa_scaler_linear_regression.pkl','wb'))
+        pickle.dump(scaler, open('model/linear_regression.pkl','wb'))
 
         return X_treino_scaled, X_teste_scaled

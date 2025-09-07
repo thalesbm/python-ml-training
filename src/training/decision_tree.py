@@ -40,6 +40,6 @@ class DecisionTreeAlgorithm:
         scaler = StandardScaler()
         X_treino_scaled = scaler.fit_transform(X_treino)
         X_teste_scaled = scaler.transform(X_teste)
-        pickle.dump(scaler, open('model/dsa_scaler_decision_tree.pkl','wb'))
+        pickle.dump(scaler, open('model/decision_tree.pkl','wb'))
 
         return X_treino_scaled, X_teste_scaled
