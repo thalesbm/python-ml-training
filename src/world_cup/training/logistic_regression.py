@@ -8,7 +8,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
 from sklearn.metrics import accuracy_score, f1_score, classification_report, confusion_matrix
 
-from world_cup.dataset.training_dataset import create_training_dataset
+from dataset.training_dataset import create_training_dataset
 
 class LogisticRegressionAlgorithm:
     
@@ -35,7 +35,7 @@ class LogisticRegressionAlgorithm:
         print("Matriz de confusão (linhas=verdade, colunas=pred):", confusion_matrix(y_teste, y_hat, labels=["1","2","3"]))
         print("--------------------------------")
 
-        joblib.dump(pipe, "model/logistic_regression.pkl")
+        joblib.dump(pipe, "model/world_cup/logistic_regression.pkl")
 
     def build_classifier_pipeline(self):
         cat_cols = ["stage_name", "team_a_code", "team_b_code"]

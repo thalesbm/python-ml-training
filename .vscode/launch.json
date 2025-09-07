@@ -2,12 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Python: Arquivo com argumentos",
+      "name": "World Cup",
       "type": "python",
       "request": "launch",
-      "program": "${workspaceFolder}/src/main.py",
+      "program": "${workspaceFolder}/src/world_cup/main.py",
       "console": "integratedTerminal",
       "justMyCode": true
-    }
+    },
+    {
+      "name": "Salary",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/salary/main.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
   ]
 }

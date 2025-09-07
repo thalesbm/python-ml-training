@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-from world_cup.dataset.training_dataset import create_training_dataset
+from dataset.training_dataset import create_training_dataset
 
 class LinearRegressionAlgorithm:
 
@@ -40,6 +40,6 @@ class LinearRegressionAlgorithm:
         scaler = StandardScaler()
         X_treino_scaled = scaler.fit_transform(X_treino)
         X_teste_scaled = scaler.transform(X_teste)
-        pickle.dump(scaler, open('model/linear_regression.pkl','wb'))
+        pickle.dump(scaler, open('model/world_cup/linear_regression.pkl','wb'))
 
         return X_treino_scaled, X_teste_scaled

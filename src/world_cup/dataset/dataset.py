@@ -16,7 +16,7 @@ def load() -> pd.DataFrame:
 def _load_dataset() -> pd.DataFrame:
     print("_load_dataset()")
 
-    path = "files/world_fifa_worldcup_matches.csv"
+    path = "files/world_cup/world_fifa_worldcup_matches.csv"
     dataset: pd.DataFrame = pd.read_csv(path)
     return dataset
 

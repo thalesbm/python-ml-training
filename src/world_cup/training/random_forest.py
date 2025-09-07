@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-from world_cup.dataset.training_dataset import create_training_dataset
+from dataset.training_dataset import create_training_dataset
 
 class RandomForestAlgorithm:
 
@@ -40,6 +40,6 @@ class RandomForestAlgorithm:
         scaler = StandardScaler()
         X_treino_scaled = scaler.fit_transform(X_treino)
         X_teste_scaled = scaler.transform(X_teste)
-        pickle.dump(scaler, open('model/random_forest.pkl','wb'))
+        pickle.dump(scaler, open('model/world_cup/random_forest.pkl','wb'))
 
         return X_treino_scaled, X_teste_scaled
