@@ -15,18 +15,22 @@ def init_world_cup():
     RandomForestAlgorithm(dataset=dataset).training_model()
     LogisticRegressionAlgorithm(dataset=dataset).training_model()
 
-def init_covid():
+def init_adult_outcome():
     print("Iniciando aplicação")
 
     path = "files/adult_outcome/salary.csv"
     dataset: pd.DataFrame = pd.read_csv(path)
 
-    print(dataset.head(10))
+    # print(dataset.head(10))
 
-    print(dataset.columns)
+    df = dataset[["age", "workclass", "education-num", "race", "sex", "native-country", "salary"]]
 
-    print(len(dataset))
+    print(df.head(10))
+
+    df = df.dropna()
+
+    print(df.info())
 
 if __name__ == "__main__":
     # init_world_cup()
-    init_covid()
+    init_adult_outcome()
