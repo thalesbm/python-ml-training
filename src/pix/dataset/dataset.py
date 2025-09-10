@@ -28,7 +28,7 @@ def load_dataset() -> pd.DataFrame:
     return df
 
 def create_training_dataset(dataset: pd.DataFrame):
-    print("_create_training_dataset()")
+    print("create_training_dataset()")
 
     X = dataset["Mensagem"]
     y = dataset["Intenção"]
