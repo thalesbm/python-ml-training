@@ -26,8 +26,8 @@ class LogisticRegressionAlgorithm:
             transformers=[("cat", OneHotEncoder(handle_unknown="ignore"), cat_cols)]
         )
 
-        ohe = OneHotEncoder(handle_unknown="ignore", sparse_output=True)
-        ohe.fit(X_treino[cat_cols])
+        # ohe = OneHotEncoder(handle_unknown="ignore", sparse_output=True)
+        # ohe.fit(X_treino[cat_cols])
 
         pipe = Pipeline([
             ("prep", preproc),

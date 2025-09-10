@@ -27,8 +27,9 @@ Tipos de Dados:
 **Alta cardinalidade:** Muitas categorias unicas, fica impossivel de categorizar (CEP, ID Produto)
 **Binária:** Sexo (0 / 1)
 
-
 ### TO DO
+- Entender melhor os parametros do modelo ColumnTransformer, Pipeline
+- Melhorar o modelo que foi treinado de salario (deixar ele retreinando)
 
 1. Entenda os tipos das colunas → 2. Entenda o tipo de alvo → 3. Escolha família de modelos → 4. Compare com baseline.
 

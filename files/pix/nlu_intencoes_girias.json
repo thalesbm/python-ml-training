@@ -1,0 +1,8002 @@
+[
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 200 pro carlos via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 30 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 300 pra camila urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 75 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 120 pro rafael já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 10 conto pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 150 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 pro bruno já era blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 120 conto no zap pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 pro aline já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 400 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 300 pro mano ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 120 pro joão já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 75 pra maria agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 12 conto no zap pro rodrigo tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 pila pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 30 conto pro bruno pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 50 conto pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 30 pra aline blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 100 reais pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 25 pila pro rafael mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 pila pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 12 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 250 pro bruno via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 35 pila pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 10 conto pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 120 pro ana via pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 conto no zap pro bruno blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pro carlos já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 25 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 5 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 500 pro luiza no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 100 pra rodrigo agora vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pila pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 20 pra carlos agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 pro rafael rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 35 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pro ana já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 35 pro mano joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 120 pro rodrigo no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 150 pra bruno urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 200 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 pro mano carloz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 400 pro camila rapidin tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 15 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 10 conto pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 300 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 conto pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 30 conto no zap pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 200 pro bia no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 40 pro mano luiza pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 20 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 60 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 20 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 conto pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 conto pro rafael vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 35 conto pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 30 no pix vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 150 pro aline já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 20 pra joão agora tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 200 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 150 pro pedro no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 300 conto pro rodrigo tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 12 reais pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 30 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 250 pro rafael via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 35 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 30 pro carlos rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 pro ana já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 400 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 10 pro ana vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 300 pro mano bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 120 conto pro bia tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 25 pro rodrigo no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 300 pro bruno no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 100 pila pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 60 pra pedro agora tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 pra rafael urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pra aline urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 35 no pix mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 50 pro pedro no piks pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 75 pro luiza já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 35 pila pro carlos vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 60 conto no zap pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 300 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 200 pro carlos no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 500 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 pra bia urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 120 no pix mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 40 pra pedro urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 100 pro camila no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 120 pro maria via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 150 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 20 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 20 conto no zap pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 20 conto no zap pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 40 pra camila urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 400 no pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 500 pra aline agora mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 5 pro camila via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 30 pro bia no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 25 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 50 pro pedro pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 35 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 5 pra bruno pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 200 pro bruno via pix pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 100 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 60 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 30 pila pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 30 pro aline no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 75 conto pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 75 pila pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 20 pro joão rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 30 pro bruno tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 300 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 40 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 50 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 15 conto pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 15 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 200 pro ana rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 35 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 25 reais pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 10 pro ana vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 120 pro ana no pikz tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 50 pila pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 10 pro mano carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 300 pro mano bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 400 pra pedro blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 400 pro ana no piks pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 25 pra rafael urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 30 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 30 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 75 pro carlos via pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 40 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 25 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra maria mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 150 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 5 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 500 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 120 pro rodrigo no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 40 conto no zap pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 100 pra ana pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 30 pra joão agora mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 10 conto no zap pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 250 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 75 reais pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 pro bia já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 25 reais pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 15 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 conto pro rafael pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro pedro já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 50 pro luiza via pix mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 5 reais pro luiza vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 60 pro maria no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 35 conto no zap pro maria vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 60 pro ana rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 75 pra camila agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 100 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 40 pra camila agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 25 pro joão via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 200 pila pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 25 no pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 5 pila pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 10 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 12 conto pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 75 conto no zap pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 50 reais pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 150 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 30 pro bruno rapidin mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zolta 100 reais pro rodrigo mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 35 pro carlos já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 250 pro joão blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 100 pro luiza no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 200 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 pro pedro rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 500 reais pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 40 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 5 pro camila já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 75 conto no zap pro camila vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 120 pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 120 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 40 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 400 pro aline vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 conto pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 75 conto pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 50 pra aline agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 100 conto pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 75 conto no zap pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 35 pro joão rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 250 reais pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 35 pila pro ana mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 35 conto no zap pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 40 no pix vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 150 pro pedro rapidin blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 500 pro bruno via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 5 pra bia pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 40 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 400 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 35 pila pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 60 pro mano pedro tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 200 no pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 35 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 500 pra joão agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 conto pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 5 pro pedro via pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 60 pra bia urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 12 reais pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 35 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 30 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 12 pra bruno urgente pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 5 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 250 pila pro bia blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zolta 40 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 12 reais pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 25 pra bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 400 pra camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 pro mano pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 pro luiza rapidin blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 100 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 pro maria já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 250 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 200 pra rafael agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 5 pila pro carlos mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 150 pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 25 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 120 pro ana rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 50 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 100 pro pedro no piks pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 40 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 50 pra bruno vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 pra maria urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 200 pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 300 pro luiza no pikz tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 120 pro mano bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 150 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 30 pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 pra pedro urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro ana já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 12 conto no zap pro camila vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 15 pra aline urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 25 pro mano carlos pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 pro bia já era pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 500 pra rafael agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 35 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 200 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 150 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 40 pila pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 30 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 40 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 150 pila pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 35 pra carloz agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 5 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 5 pro mano camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 200 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 15 pro aline vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 120 pro maria rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pro bia já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 5 pra rafael agora pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 300 pro rafael rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 200 pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 25 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 300 pro mano carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 15 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 5 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 12 conto pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 300 pro bia rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pila pro pedro pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 10 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 500 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 150 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 15 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 35 pro pedro rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 30 pra rodrigo pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 15 pila pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 pro mano pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 35 reais pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 300 pra carloz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 500 pila pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 120 pra bruno agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 10 pro luiza no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 10 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 200 pra camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 pro mano bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro camila rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 50 pro pedro pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 25 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 25 conto pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 75 pro pedro no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 150 pro aline no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 60 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 400 pra rodrigo agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 15 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 60 conto no zap pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 30 pro mano rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 40 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 150 pro carlos rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 200 pra pedro agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 60 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 5 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 200 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 120 pro rodrigo mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 conto pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 40 pro ana no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 30 pra bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 300 reais pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 250 conto no zap pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 30 pila pro rafael mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 250 pra rafael agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 25 pro mano joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 35 pro mano ana blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 10 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 40 pra maria urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 400 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 400 conto no zap pro bruno tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 10 pro carlos via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 250 reais pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 400 pra luiza agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 conto no zap pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 20 pra bia agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 200 pro aline via pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 5 pro luiza no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 10 pro joão no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 20 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 300 pro bruno via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 20 pro mano carloz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 5 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 5 pra pedro tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 pila pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 200 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 conto no zap pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 20 pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 35 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 500 pro rodrigo rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 25 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 15 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 30 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 30 no pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 10 pro camila rapidin tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 30 pro rodrigo no piks mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 150 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 75 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 500 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 35 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 40 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 250 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 150 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 75 pila pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 250 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 pro bruno já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 5 no pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 200 pro mano rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 40 no pix mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 30 pra rodrigo agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 30 pra joão tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 35 pro ana pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 12 pra pedro urgente blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 pro carloz já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 400 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 35 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 100 pro carlos no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 50 reais pro maria mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 pro mano ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 200 pro luiza mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 15 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 200 pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 250 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 pro rafael já era tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 25 reais pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 35 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 5 pro ana no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 40 pra carlos pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 12 conto no zap pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pra camila urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 200 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 60 pro rafael via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 150 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 500 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 400 pro camila rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 20 pro bia no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 500 pro aline rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 250 conto no zap pro camila tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 250 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 40 pila pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 120 pro carlos rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 5 conto no zap pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 75 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 200 reais pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 500 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 150 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 5 pro rafael via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 10 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 conto pro bruno blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 120 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 pila pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 conto no zap pro joão mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 12 reais pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 12 pro bruno no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 150 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 300 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 5 pro rafael via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 20 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 300 pro ana rapidin mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 35 pro ana tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 400 pro bia rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 500 pro maria no piks pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 120 pro pedro no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 20 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 25 pro luiza rapidin blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 60 pro rafael rapidin vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 20 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 250 pro maria no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 10 reais pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 35 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 120 conto pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro mano bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 15 pra ana agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 pra carloz urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 75 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 30 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 20 conto no zap pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 12 pro luiza rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 conto pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 20 pila pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 40 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 300 conto pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 30 pra joão blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 10 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 pro carlos já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 400 pro camila no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 40 pro rafael no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 pro ana rapidin pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 60 pra camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 40 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 40 pra aline tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 30 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 400 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 12 conto no zap pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 20 pro mano bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 500 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 40 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 100 pro bruno no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 25 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro bia já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 300 pro rafael rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 25 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 60 pro pedro tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 10 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 200 pila pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 120 conto no zap pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 12 conto no zap pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 pro ana já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 40 pila pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 60 pro joão rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 400 pra bruno agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 12 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 200 pila pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 250 pro rafael via pix mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 25 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 300 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 10 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 120 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 15 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 500 pro rafael no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 100 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 150 conto no zap pro rodrigo pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 5 pro bia no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 25 pro joão rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 40 pro luiza no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 20 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 25 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 15 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pra camila urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 100 pro mano joão tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 120 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 150 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 200 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 10 conto pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 150 pro maria rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 120 pro pedro rapidin tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 200 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 60 pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 150 pra camila agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 100 pra aline agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 10 conto no zap pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 15 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 120 pro bia já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 pra aline urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 300 pro rodrigo via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 25 reais pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 75 reais pro maria pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 15 pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 40 pro luiza no piks vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pro camila já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zolta 35 reais pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 5 pra rafael agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 60 pro aline já era blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 conto pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 40 pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 120 pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 35 conto no zap pro bia pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 200 pro joão rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 conto pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 75 pra bia agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 200 pra maria mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 50 pro rafael via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 150 reais pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 12 reais pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 250 pro carloz no piks tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 60 pra pedro urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 200 pro pedro rapidin blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 50 reais pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 pro mano joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 60 pro maria já era pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 40 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 pra rafael urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 150 pra rafael agora tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 60 pila pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 40 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 25 pra ana agora blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 500 pro pedro no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 50 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 15 pro camila pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro maria já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 30 pro pedro no pikz vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 150 conto no zap pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 25 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 15 pro rodrigo via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 25 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 25 pro aline via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 pila pro carlos tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 15 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 75 pra luiza urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 10 reais pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 120 pra luiza vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 120 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 75 pro rafael no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 12 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 75 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 15 pro camila rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 200 pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 300 conto no zap pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 15 conto no zap pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 15 pra camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 120 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 pro bruno já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 conto no zap pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 40 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 5 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 5 pro joão já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 60 pro mano joão tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 5 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 10 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 75 pra carlos agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 300 reais pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 400 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 5 conto no zap pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 150 pro mano pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 500 pro rafael rapidin pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 75 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 40 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 60 pila pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 200 reais pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 25 pro carloz no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 20 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 40 reais pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 100 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 35 conto no zap pro maria mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 20 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 30 pro carlos via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 250 pro aline no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 15 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 pro bruno já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 120 reais pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 30 reais pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pra maria urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 40 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 35 pra ana urgente mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 400 pila pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 35 pro mano carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 120 pila pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 5 pra bia urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 35 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 40 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 60 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 400 pra maria agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 200 pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 200 pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 250 pro luiza via pix vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 100 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 25 pro bia via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 60 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 200 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 60 reais pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 500 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 10 pila pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 5 reais pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 150 pra maria agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 pro rafael já era blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 25 conto pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 250 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 300 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 400 pra ana pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pra rafael urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 300 pro camila no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 25 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 conto pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 10 pila pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 conto pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 250 pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 120 pro ana pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 pro pedro já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 5 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 40 conto no zap pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 pro mano pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 75 pra camila agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pro ana já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 40 conto pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 20 pra ana agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 15 pra camila urgente vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 20 pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 40 no pix mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 75 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 10 conto pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 30 pra carlos urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 pila pro camila mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 60 pro camila pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 120 pra carlos agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pra aline urgente mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 500 pra bia tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 35 pro joão via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 75 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 20 pra pedro agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 40 conto pro maria blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 5 pra ana urgente mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 500 pra rodrigo agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 60 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 conto pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 120 pro rodrigo via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 400 pra bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 pro ana rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 5 conto pro bia tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 35 pro luiza no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro joão tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 40 pro rodrigo no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 10 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 250 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 12 pro ana via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 100 pra camila urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 400 reais pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 30 pro carloz via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 15 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 60 pro bruno via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 300 pro rafael no pikz mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 100 pro joão no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 200 pro rodrigo tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 150 pro pedro vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 25 pra ana agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 60 pro rodrigo no piks blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 25 conto pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 10 pro rodrigo vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 5 reais pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 150 conto pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 25 conto no zap pro ana mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 200 pro mano camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro bia já era vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 35 pra bia urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 200 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 12 pro pedro no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 250 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pila pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 75 pro rodrigo no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 40 conto no zap pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 50 pro mano rafael mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 200 no pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 50 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zolta 25 reais pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 250 reais pro bruno mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 50 pro carloz no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 12 pro joão via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 5 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 pro mano aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 10 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 150 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 25 pro bia no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 10 conto pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 100 pro mano rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 200 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 100 pra joão agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 20 pila pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 25 conto pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 25 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 25 pra bia agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 pro rafael rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro bia já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 120 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 pro maria rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 60 pro mano rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 5 pra rafael urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 50 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 75 pra rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 100 reais pro maria blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 25 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 40 conto no zap pro camila vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 300 reais pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 120 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 50 pro ana no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 100 conto no zap pro aline blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro carloz já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 10 pila pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro camila já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 60 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 120 pro bruno via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 30 pila pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 300 pro bia rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 250 pra luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 50 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 400 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zolta 60 reais pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 100 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 150 reais pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 pila pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 60 pra pedro urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 300 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 100 pro luiza já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 60 pila pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 conto pro carloz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 30 pila pro ana blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 250 pro ana via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 35 pra camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 5 pro camila no piks mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 300 pro rodrigo no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 300 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "dezcola 150 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 300 pila pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 100 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 60 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 60 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 150 pra bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 120 reais pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 50 conto pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 200 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 conto pro maria blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 20 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 400 pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 15 reais pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 conto no zap pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 30 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 5 pila pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 5 pra joão urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 12 pila pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 35 pro mano camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 150 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 pra carlos urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 10 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 60 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 12 pra bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 20 pra bruno agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 15 pila pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 60 pila pro luiza mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 400 pro pedro já era mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 5 pro pedro via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 12 reais pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 20 pra maria agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 120 pro ana via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 25 pro camila rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 30 reais pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 25 pra aline agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 75 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 300 pro aline no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 100 pro rafael no piks mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 75 pra aline urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 400 no pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 5 pra rafael agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 pro rafael já era mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 250 pro joão via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 12 pro bia via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 25 pro aline rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 conto pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 15 pro bruno já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 100 reais pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 75 pra pedro pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 75 reais pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 120 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 300 conto pro aline tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o pikz de 75 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 pro mano maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 300 pro rafael mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 50 pro pedro via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 35 pro mano aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 25 pra pedro agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 50 pra rodrigo vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 30 pro pedro já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 conto pro bruno mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 150 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 pro mano joão mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 250 pro pedro via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 250 pra aline mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 12 pra luiza urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 100 pro rafael via pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 10 conto no zap pro carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 15 pro mano ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 500 pra aline agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 30 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 120 pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 10 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 35 pro maria via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 30 pra bruno urgente mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 50 pro maria via pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 12 pro rafael rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 500 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 60 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 35 pro bia já era tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 150 pro rafael no piks vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 10 pra joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 10 pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 120 pro rafael rapidin tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "moztra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 pra ana urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 100 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 200 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 30 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 conto no zap pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 200 pra bruno urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 40 conto pro camila",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 50 conto no zap pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 200 pra luiza agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 20 pra pedro blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 5 pra camila agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 12 pro mano rafael pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta vlw",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 75 pro ana no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 120 pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 25 pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 30 conto no zap pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 35 pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 60 pro luiza no pikz mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 5 pra aline agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o zaldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 100 pro camila já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 conto no zap pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 300 pra rodrigo agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 500 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 25 conto no zap pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 200 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 25 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 5 pro mano rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 75 pra camila agora blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 120 pra rodrigo urgente blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 150 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 120 pra maria urgente pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pix de 5 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zolta 200 reais pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 pro mano ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 12 reais pro joão blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 500 pro mano joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 150 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 12 reais pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 50 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me fala quanto sobrou na conta mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 300 pro aline rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 100 pro luiza já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita? blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 35 pro mano maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 25 conto pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pra camila urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 400 pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 10 pro pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 35 pra pedro urgente mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 40 reais pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 12 pra ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 100 pro pedro já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 25 reais pro ana mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 75 pro rodrigo no pikz blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 20 pila pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro bruno rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pila pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 60 pro mano maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 conto pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 conto no zap pro maria pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 500 pro joão via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 12 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 12 pila pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 100 reais pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 15 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 150 conto pro aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 pra bia urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro carloz já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 60 pra joão blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 30 pro maria no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro luiza rapidin vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 12 pro rodrigo já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pazsa 25 pro pedro rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 150 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 5 pro bia no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "dezcola 20 pro carlos vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 60 pro maria via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 60 pro maria já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 75 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 300 pro luiza no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 100 pro rafael via pix tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro aline já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 400 reais pro maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 75 pro pedro rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 35 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 15 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 40 pra maria",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 60 pro luiza no pikz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pro camila já era mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 12 pro luiza rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 75 pro camila no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "descola 100 pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 150 pro bruno via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 300 pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda meu saldo aí",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 25 pro rodrigo já era blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "solta 150 reais pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 40 pra camila agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 10 pro mano luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 75 pro maria rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "solta 12 reais pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 500 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "mostra o que tem de saldo blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 15 pro pedro no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pro bia rapidin mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 75 pra rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 20 no pix blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero pagar 12 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me moztra a bufunfa que restou mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 35 pra rodrigo agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero zaber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "pix de 25 pro camila pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 200 no pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cazh agora tmj",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 10 conto no zap pro rafael",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "taca 30 pra bia agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 conto pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zaldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fala quanto de grana tenho mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 20 pra joão urgente vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 10 pila pro bia blz",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quanto eu tenho de grana?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 150 pra ana agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda meu zaldo aí blz",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "fecha um pix de 500 pra carlos",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "fecha um pix de 500 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo atualizado aí parceiro",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "faz o piks de 50 pra pedro",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 100 pro bruno pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "cola 60 pro maria via pix",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "joga 60 pro mano bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro bia rapidin vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra a bufunfa que restou",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 400 conto no zap pro bruno",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 60 pro camila já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 conto pro joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pra maria urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 pro rafael já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 pila pro pedro pfv",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 15 pro mano joão",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "cola 300 pro bruno via pix vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 conto no zap pro rafael mano",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero ver o money na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "taca 25 pra rodrigo agora",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "paga 60 pro aline no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "zolta 150 reais pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero saber quanto tá sobrando",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "qual o saldo que tem na fita?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 30 pro rafael já era",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "me fala quanto zobrou na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "quero conferir o cash agora",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 25 conto pro maria tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho? pfv",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 20 pro joão rapidin",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o piks de 150 pra aline",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cazh que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "passa 15 pila pro rodrigo",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 12 pila pro luiza",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "pazsa 35 pro rafael rapidin tmj",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "qual é o cash que eu tenho?",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 250 pra rodrigo urgente",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "saldo aí pra nois",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tem de dindin",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "me mostra quanto de money tem",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "saldo aí pra nois mano",
+    "Intenção": "saldo"
+  },
+  {
+    "Mensagem": "manda 20 conto pro ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero pagar 15 no pix vlw",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz o pikz de 12 pra bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "paga 10 pro ana no piks",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "descola 12 pro bia",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "vê quanto tá livre na conta",
+    "Intenção": "saldo"
+  }
+]
