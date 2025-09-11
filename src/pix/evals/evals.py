@@ -7,11 +7,27 @@ def test(model):
 
     data = _load_file()
 
-    samples = _load_phrases(data)
+    data = _dedup_por_text(data)
+
+    samples, intention = _load_phrases(data)
 
     _count_intentions(data, samples)
 
-    _validate(model, samples)
+    _validate(model, samples, intention)
+
+def _dedup_por_text(itens: list[dict]) -> list[dict]:
+    print("_dedup_por_text()")
+
+    vistos = set()
+    unicos = []
+    for obj in itens:
+        txt = obj.get("text")
+        k = txt
+        if k in vistos:
+            continue
+        vistos.add(k)
+        unicos.append(obj)
+    return unicos
 
 def _load_file():
     print("_load_file()")
@@ -29,9 +45,15 @@ def _load_phrases(data):
         if isinstance(item, dict)
         and "text" in item
     ]
-    samples = list(dict.fromkeys(samples))
 
-    return samples
+    intention = [
+        item["intent"]
+        for item in data
+        if isinstance(item, dict)
+        and "intent" in item
+    ]
+
+    return samples, intention
 
 def _count_intentions(data, samples):
     print("_count_intentions()")
@@ -55,7 +77,7 @@ def _count_intentions(data, samples):
     print("frases de limite:", qtd_limite)
     print("total de frases:", len(samples))
 
-def _validate(model, samples):
+def _validate(model, samples, intention):
     print("_validate()")
 
     preds = model.predict(samples)
@@ -70,7 +92,8 @@ def _validate(model, samples):
         j = categories.index(y)
         prob = float(proba[i, j])
 
-        print(f"{prob:.4f} | {y} | {samples[i]}")
+        if y != intention[i]:
+            print(f"{prob:.4f} | {y} | {samples[i]} | {intention[i]}")
 
         if y == "saldo":
             saldo = saldo + 1
