@@ -1,0 +1,8002 @@
+[
+  {
+    "Mensagem": "cadastrar meu limite agora do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 300 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 800 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 700 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 30.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 700 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 800 na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 15.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 800 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 30.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 20.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 25.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 12.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 7.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 15.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 2.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 1.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 1.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 800 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 30.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 5.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 200 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 200 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 25.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 300 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 15.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 50.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 25.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 5.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 2.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 3.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 300 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 5.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 800 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 1.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 200 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 2.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 10.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 30.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 20.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 300 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 3.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 1.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 2.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 2.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 2.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 10.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 3.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 800 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 12.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 5.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 700 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 12.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 1.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 800 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 12.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 12.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 50.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 200 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 1.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 25.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 12.000 na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 5.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 20.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 3.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 2.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 1.500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 12.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 300 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 30.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 7.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 800 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 50.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 20.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 20.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 300 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 800 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 25.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 2.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 7.500 na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 700 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 300",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 2.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 2.500 na conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 10.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 300 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 20.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 1.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 12.000 na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 7.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 15.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 2.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 50.000 na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 12.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 5.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 25.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 1.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 25.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 30.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 7.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 30.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 2.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 50.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 5.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 25.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 10.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 300 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 2.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 20.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 15.000 na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 1.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 10.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 3.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 5.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 1.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 1.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 15.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 200 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 800 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 5.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 300 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 30.000 na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 30.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 20.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 50.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 15.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 12.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 700 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 300 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 15.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 20.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 15.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 50.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 3.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 7.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 30.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 25.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 300 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 10.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 2.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 700 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 20.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 10.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 7.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 10.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 2.500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 12.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 200 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 7.500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 1.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 10.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 7.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 200 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 25.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 700 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 30.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 800 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 30.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 20.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 30.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 1.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 30.000 na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 20.000 na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 20.000 na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 700 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 1.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 700",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 25.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 1.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 30.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 2.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 300 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 20.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 1.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 3.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 15.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 50.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 200 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 3.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 30.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 300 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 30.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 700 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 1.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 12.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 12.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 300 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 200 na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 200 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 800 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 50.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 50.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 25.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 300 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 1.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 1.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 300 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 300 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 50.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 3.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 12.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 1.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 800 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 15.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 50.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 1.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 2.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 7.500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 800 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 20.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 12.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 3.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 7.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 800 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 2.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 800 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 200 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 1.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 30.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 300 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 3.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 2.500 na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 1.500 na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 7.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 5.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 1.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 300 na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 7.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 1.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 12.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 12.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 1.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 5.000 na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 50.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 10.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 15.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 10.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 1.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 300 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 3.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 2.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 700 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 30.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 1.000 na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 700 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 300 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 30.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 800 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 50.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 30.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 2.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 2.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 15.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 2.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 1.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 300 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 7.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 5.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 25.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 30.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 10.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 25.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 700",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 5.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 50.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 12.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 25.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 7.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 3.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 800 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 50.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 800 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 700 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 30.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 200 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 300 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 200 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 3.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 10.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 1.000 na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 300 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 50.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 700 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 5.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 50.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 25.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 2.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 50.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 15.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 7.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 25.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 15.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 3.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 30.000 na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 3.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 300",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 300 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 2.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 300 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 30.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 20.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 2.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 2.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 12.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 800",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 15.000 na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 800 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 20.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 10.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 12.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 300 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 50.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 10.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 50.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 7.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 200 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 1.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 200 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 5.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 3.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 20.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 50.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 10.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 700 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 1.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 3.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 1.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 20.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 12.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 1.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 20.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 800 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 1.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 2.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 2.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 800 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 2.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 25.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 2.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 10.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 1.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 10.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 700 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 200 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 25.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 800 na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 15.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 800 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 5.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 300 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 1.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 700 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 5.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 1.000 na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 1.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 200 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 15.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 50.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 10.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 2.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 50.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 3.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 800",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 15.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 200 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 10.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 300 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 1.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 25.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 30.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 300 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 20.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 200 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 20.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 700 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 50.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 50.000 na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 5.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 1.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 7.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 300 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 30.000 na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 50.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 2.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 800 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 2.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 200 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 10.000 na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 25.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 7.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 20.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 12.000 na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 2.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 1.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 5.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 10.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 50.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 7.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 300 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 20.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 1.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 200 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 700 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 1.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 10.000 na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 50.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 25.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 2.000 na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 2.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 30.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 7.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 15.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 10.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 7.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 3.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 12.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 200 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 15.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 800 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 800 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 2.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 5.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 1.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 1.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 700",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 50.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 50.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 7.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 12.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 5.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 2.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 25.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 500 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 7.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 20.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 10.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 10.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 1.500 na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 2.000 na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 800",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 10.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 30.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 800 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 300 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 2.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 700 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 20.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 5.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 2.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 30.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 800 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 15.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 2.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 12.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 800",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 15.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 700",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 800",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 25.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 800 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 20.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 15.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 700 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 12.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 5.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 300 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 200 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 12.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 1.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 7.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 2.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 12.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 2.000 na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 1.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 1.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 200 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 15.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 700 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 2.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 1.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 20.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 200 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 300 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 300 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 20.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 12.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 30.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 800 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 3.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 15.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 300 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 2.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 1.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 2.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 50.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 2.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 10.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 200 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 200 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 7.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 25.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 7.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 800 na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 30.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 50.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 7.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 200 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 1.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 300 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 5.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 12.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 1.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 5.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 15.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 2.000 na conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 3.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 3.000 na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 200 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 1.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 1.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 25.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 15.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 12.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 10.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 300 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 2.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 1.000 na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 800",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 30.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 300 na conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 300 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 15.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 800 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 25.000 na conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 25.000 na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 50.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 10.000 na conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 5.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 2.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 25.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 300 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 12.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 700 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 7.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 700 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 200 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 25.000 na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 1.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 15.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 3.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 30.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 7.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 20.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 200 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 10.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 1.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 30.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 15.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 2.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 15.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 5.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 25.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 30.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 1.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 25.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 50.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 12.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 2.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 3.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 30.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 800 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 3.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 300 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 1.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 700 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 1.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 15.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 300 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 30.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 2.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 30.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 7.500 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 15.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 15.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 7.500 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 10.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "colocar limite de R$ 7.500 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 50.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 2.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 2.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 10.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 30.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 1.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 7.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 300 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 1.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 800 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 20.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 10.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 5.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 20.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 5.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 300 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 1.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 2.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 25.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 300 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 2.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 12.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 800 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 800 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 25.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 20.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 15.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 2.500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar limite da conta para R$ 1.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite da conta agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 700 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 20.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 300 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 30.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 7.500 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 30.000 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 20.000 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.000 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 30.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite da conta do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 12.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 15.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 5.000 na conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 200 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 500 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto é o limite hoje? hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 50.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 25.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 25.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 20.000 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 300 ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 2.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 1.500 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir primeiro limite em R$ 25.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 12.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 200 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero um novo limite de R$ 12.000 na conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 3.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 15.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 7.500 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 300 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "estabelecer limite em R$ 2.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "habilitar limite de R$ 300 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 15.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "trocar o limite atual para R$ 20.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 3.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 2.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "verificar meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "atualizar meu limite para R$ 300 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "checar meu limite da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 2.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 5.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 200 do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 200 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 300 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ver o teto de gastos",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "modificar limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 15.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 15.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 5.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite de R$ 30.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar meu limite agora por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "revisar limite para R$ 1.500 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 7.500 no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 800 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 25.000 por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mudar limite para R$ 300 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto tenho de limite? agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta no app",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar limite de gastos em R$ 800 se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir limite padrão de R$ 1.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero limite novo de R$ 5.000 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta por favor",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "configurar limite inicial de R$ 50.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 12.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 50.000 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ativar um limite de R$ 1.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite da conta do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 800 agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 12.000 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 12.000 do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode reduzir meu limite da conta agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "qual é meu limite? ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "definir um novo limite de R$ 20.000 pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor pra mim",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero alterar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajustar limite da conta para R$ 2.500 hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 12.000 do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "criar limite da conta em R$ 7.500 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite por favor se possível",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastrar um limite na conta ainda hoje",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar meu limite agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 200 da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero criar um limite na conta da conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registrar limite de R$ 700 urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite disponível urgente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "alterar o teto de gastos para R$ 2.500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diminuir limite para R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso aumentar meu limite da conta ainda hoje",
+    "Intenção": "limite"
+  }
+]

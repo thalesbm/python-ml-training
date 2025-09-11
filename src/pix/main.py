@@ -20,16 +20,8 @@ def init():
     # save
     model = save(pipeline)
 
-    samples = [
-        "quero ver meu saldo agora",
-        "faz um pix de 50 pro joão",
-        "quanto eu tenho de grana sobrando?",
-        "manda 200 conto pra maria rapidin",
-        "verificar saldo disponível",
-        "passa 30 pila pro 11987654321"
-    ]
-
-    test(model, samples)
+    # teste
+    test(model)
 
 if __name__ == "__main__":
     init()

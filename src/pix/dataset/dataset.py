@@ -6,23 +6,31 @@ from sklearn.model_selection import train_test_split
 def load_dataset() -> pd.DataFrame:
     print("load_dataset()")
 
-    # 7000 frases
+    # 11000 frases pix
     path = "files/pix/pix_intencoes_final.json"
     df_pix: pd.DataFrame = pd.read_json(path)
 
-    # 5000 frases
+    # 5000 frases saldo
     path = "files/pix/saldo_intencoes.json"
     df_balance: pd.DataFrame = pd.read_json(path)
 
-    # 6000 frases genericas
+    # 6000 frases genericas pix e saldo
     path = "files/pix/nlu_intencoes_naturais.json"
     df_random: pd.DataFrame = pd.read_json(path)
 
-    # 2000 frases com girias
+    # 2000 frases com girias pix e saldo
     path = "files/pix/nlu_intencoes_girias.json"
     df_girias: pd.DataFrame = pd.read_json(path)
 
-    df = pd.concat([df_pix, df_balance, df_random, df_girias], ignore_index=True)
+    # 2000 frases com girias limite
+    path = "files/pix/limite_dataset_girias.json"
+    df_limite_girias: pd.DataFrame = pd.read_json(path)
+
+    # 2000 frases com limite
+    path = "files/pix/limite_dataset.json"
+    df_limite: pd.DataFrame = pd.read_json(path)
+
+    df = pd.concat([df_pix, df_balance, df_random, df_girias, df_limite, df_limite_girias], ignore_index=True)
     df = df.sample(frac=1.0, random_state=42).reset_index(drop=True)
 
     return df

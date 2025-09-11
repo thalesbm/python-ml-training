@@ -1,0 +1,8002 @@
+[
+  {
+    "Mensagem": "registra um limite monstro de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 7.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 3.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 50.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 200 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 10.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 200 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 10.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 30.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 20.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 2.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 200 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 20.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 7.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 2.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 2.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 10.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 200, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 2.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 5.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 2.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 15.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 15.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 3.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 2.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 10.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 15.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 2.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 30.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 30.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 7.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 20.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 200 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 20.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 2.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 30.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 10.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 30.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 20.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 10.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 7.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 7.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 10.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 10.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 2.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 3.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 20.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 10.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 15.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 3.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 10.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 500 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 5.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 50.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 20.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 3.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 20.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 7.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 3.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 500 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 2.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 7.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 1.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 200 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 20.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 200, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 2.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 1.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 20.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 5.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 10.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 5.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 500 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 500 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 200 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 3.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 200, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 15.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 15.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 500, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 7.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 1.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 15.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 2.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 20.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 1.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 10.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 20.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 15.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 7.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 30.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 20.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 500 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 200 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 15.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 15.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 7.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 1.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 500 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 5.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 500 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 2.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 15.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 20.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 30.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 500, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 20.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 500 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 200, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 1.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 3.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 7.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 7.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 50.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 15.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 10.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 3.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 3.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 500, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 5.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 200, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 15.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 10.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 50.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 5.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 3.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 15.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 20.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 200, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 10.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 1.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 30.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 50.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 10.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 30.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 200, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 1.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 20.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 20.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 50.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 20.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 30.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 200, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 200, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 50.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 2.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 5.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 10.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite aí rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete aí um limite inicial de R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 50.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 10.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 20.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "arruma meu limite que tá muito baixo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 2.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 1.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 5.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 500",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 20.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho sobrando?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 3.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "e aí, qual é meu limite na moral?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 10.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero mudar esse limite logo, sem enrolação",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá aquela moral e sobe o limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere meu limite pra mim, mano",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero turbinar meu limite, tá ligado?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "limite tá quanto no momento?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero cadastrar um limite decente logo de cara",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mano, dá um jeito de aumentar esse limite aí",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "cadastra pra mim um limite bruto, tipo R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "registra um limite monstro de R$ 20.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite, sem caô",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 5.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "passa a visão do limite atual",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de um limite novo, coloca R$ 30.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "bora cadastrar logo esse limite de R$ 15.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "joga R$ 2.000 no limite da conta",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz o cadastro de limite com R$ 2.000, rapidão",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero sacar quanto tá meu limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mete bronca e coloca meu limite em R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "tira esse limite mixuruca e coloca R$ 7.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais grana liberada, bora subir o limite",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostra o limite que tá valendo agora",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 50.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "pode jogar meu limite lá em R$ 7.000, fechou?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 200",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "manda ver, coloca limite R$ 3.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "diz aí, qual é o teto da minha conta?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "faz a boa e troca meu limite pra R$ 1.000",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "já cola aí R$ 30.000 como limite",
+    "Intenção": "limite"
+  }
+]
