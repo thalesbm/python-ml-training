@@ -1,0 +1,4002 @@
+[
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 5.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 500 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 7.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 500 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 15.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 30.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 10.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 2.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 3.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 5.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 1.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 7.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de crédito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 2.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 2.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no poupança?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 20.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 30.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 5.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 30.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no poupança?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no transferência TED?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 2.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no poupança?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 1.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 15.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 2.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 30.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cheque especial?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 5.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 3.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 10.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 3.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de crédito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 2.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 1.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 15.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 500 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cheque especial?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de crédito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 20.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 2.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no transferência TED?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 20.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de débito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 1.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no transferência TED?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no boleto?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 1.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no pix?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 30.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 2.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 500 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cheque especial?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 2.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 3.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 10.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 2.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 5.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no boleto?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 1.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 3.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 7.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no pix?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 30.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 20.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 2.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 30.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 5.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 30.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 30.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 20.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 20.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 15.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 5.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no pix?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de débito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 7.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 30.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 30.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no transferência TED?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 2.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 5.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 5.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 10.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 3.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no fatura?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 15.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 20.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 2.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de crédito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 30.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 3.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 30.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 15.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 7.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no fatura?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 5.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no fatura?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 15.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 1.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 1.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 1.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de débito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 3.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 2.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no pix?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 1.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 20.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no fatura?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 30.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no pix?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de débito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 20.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 2.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 15.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 15.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no pix?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 3.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 5.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cheque especial?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 5.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 500 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 3.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 20.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 500 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 3.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no conta corrente?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 5.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 30.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 5.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 2.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 7.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no boleto?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 10.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 30.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 5.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 20.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 5.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 10.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 1.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 2.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 500 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 15.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 7.000 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 15.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 3.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 2.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 7.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cartão de débito?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 500 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no aplicativo?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 500 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no transferência TED?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 20.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 2.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 30.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 10.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 20.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no fatura?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "ajusta meu limite pra R$ 3.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero ver meu limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "consultar limite do boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 500 no poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 5.000 no cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero conferir meu limite do cartão de débito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "confere aí o limite do conta corrente",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso conferir o limite do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "me diz quanto é meu limite no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "mostrar limite disponível do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 3.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no pix",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 1.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do poupança",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "dá uma olhada no limite do cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quanto de limite eu tenho no cheque especial?",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 10.000 no fatura",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 7.000 no transferência TED",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "subir meu limite para R$ 5.000 no cartão de crédito",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "quero aumentar meu limite para R$ 20.000 no cheque especial",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "preciso de mais limite, coloca R$ 7.000 no aplicativo",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "meu limite tá baixo, aumenta pra R$ 7.000 no boleto",
+    "Intenção": "limite"
+  },
+  {
+    "Mensagem": "exibir limite atual do boleto",
+    "Intenção": "limite"
+  }
+]

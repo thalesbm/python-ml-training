@@ -102,7 +102,6 @@ def _validate(model, samples, intention):
         elif y == "limite":
             limite = limite + 1
 
-    print("Resultado Final:", pix)
     print("pix:", pix)
     print("saldo:", saldo)
     print("limite:", limite)
