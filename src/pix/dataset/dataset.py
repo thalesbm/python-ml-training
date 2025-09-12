@@ -6,32 +6,25 @@ from sklearn.model_selection import train_test_split
 def load_dataset() -> pd.DataFrame:
     print("load_dataset()")
 
-    # 11000 frases pix
-    path = "files/pix/pix_intencoes_final.json"
+    path = "files/pix/dataset_pix.json"
     df_pix: pd.DataFrame = pd.read_json(path)
 
-    # 5000 frases saldo
-    path = "files/pix/saldo_intencoes.json"
+    path = "files/pix/dataset_saldo.json"
     df_balance: pd.DataFrame = pd.read_json(path)
 
-    # 6000 frases genericas pix e saldo
-    path = "files/pix/nlu_intencoes_naturais.json"
+    path = "files/pix/dataset_pix_saldo.json"
     df_random: pd.DataFrame = pd.read_json(path)
 
-    # 2000 frases com girias pix e saldo
-    path = "files/pix/nlu_intencoes_girias.json"
+    path = "files/pix/dataset_pix_saldo_girias.json"
     df_girias: pd.DataFrame = pd.read_json(path)
 
-    # 2000 frases com girias limite
-    path = "files/pix/limite_dataset_girias.json"
+    path = "files/pix/dataset_limite_girias.json"
     df_limite_girias: pd.DataFrame = pd.read_json(path)
 
-    # 2000 frases com limite
-    path = "files/pix/limite_dataset.json"
+    path = "files/pix/dataset_limite.json"
     df_limite: pd.DataFrame = pd.read_json(path)
 
-    # 1000 frases com limite
-    path = "files/pix/limite_dataset_produtos.json"
+    path = "files/pix/dataset_limite_produtos.json"
     df_limite_produtos: pd.DataFrame = pd.read_json(path)
 
     df = pd.concat([df_pix, df_balance, df_random, df_girias, df_limite, df_limite_girias, df_limite_produtos], ignore_index=True)

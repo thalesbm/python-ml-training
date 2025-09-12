@@ -11,7 +11,7 @@ def test(model):
 def _load_file():
     print("_load_file()")
     
-    data: pd.DataFrame = pd.read_json("files/pix/dataset-calcada.json")
+    data: pd.DataFrame = pd.read_json("files/pix/teste/dataset_calcada.json")
     data = data.drop_duplicates(subset=["text"])
     data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
     data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
