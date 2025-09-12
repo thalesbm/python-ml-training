@@ -1,5 +1,6 @@
-from collections import Counter
 import pandas as pd
+
+from dataset.format import normalize_text
 
 def test(model):
     print("test()")
@@ -15,6 +16,10 @@ def _load_file():
     data = data.drop_duplicates(subset=["text"])
     data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
     data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
+
+    data["text"] = data["text"].str.lower()
+
+    data["text"] = data["text"].astype(str).apply(normalize_text)
 
     print(data["intent"].value_counts())
 

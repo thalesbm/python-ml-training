@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+from dataset.format import normalize_text
 from sklearn.model_selection import train_test_split
 
 def load_dataset() -> pd.DataFrame:
@@ -27,11 +28,19 @@ def load_dataset() -> pd.DataFrame:
     path = "files/pix/dataset_limite_produtos.json"
     df_limite_produtos: pd.DataFrame = pd.read_json(path)
 
-    df = pd.concat([df_pix, df_balance, df_random, df_girias, df_limite, df_limite_girias, df_limite_produtos], ignore_index=True)
+    path = "files/pix/dataset_pix_diferentes_chaves.json"
+    df_pix_chaves: pd.DataFrame = pd.read_json(path)
+
+    df = pd.concat([df_pix, df_balance, df_random, df_girias, df_limite, df_limite_girias, df_limite_produtos, df_pix_chaves], ignore_index=True)
     df = df.sample(frac=1.0, random_state=42).reset_index(drop=True)
 
     df.loc[df["Intenção"] == "saldo", "Intenção"] = "nao-pix"
     df.loc[df["Intenção"] == "limite", "Intenção"] = "nao-pix"
+
+    df["Mensagem"] = df["Mensagem"].str.lower()
+    df["Mensagem"] = df["Mensagem"].astype(str).apply(normalize_text)
+
+    print(df.head(50))
 
     print(df["Intenção"].value_counts())
 
