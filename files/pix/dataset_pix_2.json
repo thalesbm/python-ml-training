@@ -1,0 +1,8002 @@
+[
+  {
+    "Mensagem": "passa 20 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 750 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 20 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 300 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 200 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 200 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 900 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 500 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 400 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 900 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 100 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 500 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 1000 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 400 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 400 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 100 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 150 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 100 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 1000 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 200 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 75 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 150 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 usando a chave 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 200 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 pro cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 200 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 100 agora para cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 500 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 75 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 75 direto no empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 500 agora para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 250 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 750 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 300 agora para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 400 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 1000 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 500 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 100 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 20 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 900 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 250 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 750 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 pro 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 150 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 200 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 500 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 1000 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 400 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 no contato 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 900 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 150 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 75 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 150 no contato empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 150 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 1000 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 50 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 750 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 20 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 250 pro 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 50 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 usando a chave empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 1000 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 no contato lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 250 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 20 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 500 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 50 usando a chave contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 agora para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 1000 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 200 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 400 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 750 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 50 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 500 para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 400 direto no 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 400 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 250 agora para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 usando a chave cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 750 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 50 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 direto no pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 usando a chave 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 300 no contato cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 100 direto no cpf 222.333.444-55",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 300 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 750 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 300 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 50 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 1000 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 750 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 150 para lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 300 no contato 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 75 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 250 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 50 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 50 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 400 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 75 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 500 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 200 usando a chave 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 100 para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 400 agora para 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 1000 pro lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 300 usando a chave lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 20 pro 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 250 agora para empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 1000 agora para pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 900 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 75 no contato 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 50 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 500 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 agora para 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 200 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 900 para 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 100 pro maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 300 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 100 direto no contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 250 direto no 98765432100",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 900 pro 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 150 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 20 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 para maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 250 direto no lucas@yahoo.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 150 agora para contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "manda 50 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 no contato contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 150 direto no 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 900 usando a chave 123.456.789-00",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 250 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 75 pro contato.ana",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 20 para 11987654321",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "deposita 20 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "coloca 300 no contato maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "faz 100 direto no maria@gmail.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 900 no contato 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 200 pro empresa@corp.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "passa 20 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "efetue 75 usando a chave pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "joga 20 no contato pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "realiza 900 direto no 11 99876-5432",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "envia 750 pro pedro@provedor.com",
+    "Intenção": "pix"
+  },
+  {
+    "Mensagem": "quero 750 usando a chave maria@gmail.com",
+    "Intenção": "pix"
+  }
+]

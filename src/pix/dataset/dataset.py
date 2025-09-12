@@ -7,35 +7,26 @@ from sklearn.model_selection import train_test_split
 def load_dataset() -> pd.DataFrame:
     print("load_dataset()")
 
-    path = "files/pix/dataset_pix.json"
-    df_pix: pd.DataFrame = pd.read_json(path)
+    dfs = []
+    for path in [
+        "files/pix/dataset_pix.json",
+        "files/pix/dataset_saldo.json",
+        "files/pix/dataset_pix_saldo.json",
+        "files/pix/dataset_pix_saldo_girias.json",
+        "files/pix/dataset_limite_girias.json",
+        "files/pix/dataset_limite.json",
+        "files/pix/dataset_limite_produtos.json",
+        "files/pix/dataset_pix_2.json",
+        "files/pix/dataset_pix_diferentes_chaves.json",
+    ]:
+        dfs.append(pd.read_json(path))
 
-    path = "files/pix/dataset_saldo.json"
-    df_balance: pd.DataFrame = pd.read_json(path)
-
-    path = "files/pix/dataset_pix_saldo.json"
-    df_random: pd.DataFrame = pd.read_json(path)
-
-    path = "files/pix/dataset_pix_saldo_girias.json"
-    df_girias: pd.DataFrame = pd.read_json(path)
-
-    path = "files/pix/dataset_limite_girias.json"
-    df_limite_girias: pd.DataFrame = pd.read_json(path)
-
-    path = "files/pix/dataset_limite.json"
-    df_limite: pd.DataFrame = pd.read_json(path)
-
-    path = "files/pix/dataset_limite_produtos.json"
-    df_limite_produtos: pd.DataFrame = pd.read_json(path)
-
-    path = "files/pix/dataset_pix_diferentes_chaves.json"
-    df_pix_chaves: pd.DataFrame = pd.read_json(path)
-
-    df = pd.concat([df_pix, df_balance, df_random, df_girias, df_limite, df_limite_girias, df_limite_produtos, df_pix_chaves], ignore_index=True)
-    df = df.sample(frac=1.0, random_state=42).reset_index(drop=True)
+    df = pd.concat(dfs, ignore_index=True).sample(frac=1.0, random_state=42).reset_index(drop=True)
 
     df.loc[df["Intenção"] == "saldo", "Intenção"] = "nao-pix"
     df.loc[df["Intenção"] == "limite", "Intenção"] = "nao-pix"
+
+    df = df.drop_duplicates(subset=["Mensagem"])
 
     df["Mensagem"] = df["Mensagem"].str.lower()
     df["Mensagem"] = df["Mensagem"].astype(str).apply(normalize_text)
