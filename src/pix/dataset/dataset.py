@@ -37,6 +37,11 @@ def load_dataset() -> pd.DataFrame:
     df = pd.concat([df_pix, df_balance, df_random, df_girias, df_limite, df_limite_girias, df_limite_produtos], ignore_index=True)
     df = df.sample(frac=1.0, random_state=42).reset_index(drop=True)
 
+    df.loc[df["Intenção"] == "saldo", "Intenção"] = "nao-pix"
+    df.loc[df["Intenção"] == "limite", "Intenção"] = "nao-pix"
+
+    print(df["Intenção"].value_counts())
+
     return df
 
 def create_training_dataset(dataset: pd.DataFrame):

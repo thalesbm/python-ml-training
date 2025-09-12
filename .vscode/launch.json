@@ -17,5 +17,13 @@
       "console": "integratedTerminal",
       "justMyCode": true
     },
+        {
+      "name": "Pix",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/pix/main.py",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
   ]
 }

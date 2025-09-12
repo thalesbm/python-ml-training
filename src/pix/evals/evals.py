@@ -1,107 +1,51 @@
 from collections import Counter
-import json
-import re, unicodedata
+import pandas as pd
 
 def test(model):
     print("test()")
 
     data = _load_file()
 
-    data = _dedup_por_text(data)
-
-    samples, intention = _load_phrases(data)
-
-    _count_intentions(data, samples)
-
-    _validate(model, samples, intention)
-
-def _dedup_por_text(itens: list[dict]) -> list[dict]:
-    print("_dedup_por_text()")
-
-    vistos = set()
-    unicos = []
-    for obj in itens:
-        txt = obj.get("text")
-        k = txt
-        if k in vistos:
-            continue
-        vistos.add(k)
-        unicos.append(obj)
-    return unicos
+    _validate(model, data)
 
 def _load_file():
     print("_load_file()")
     
-    with open("files/pix/dataset-calcada.json", "r", encoding="utf-8") as f:
-        data = json.load(f) 
+    data: pd.DataFrame = pd.read_json("files/pix/dataset-calcada.json")
+    data = data.drop_duplicates(subset=["text"])
+    data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
+    data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
+
+    print(data["intent"].value_counts())
+
     return data
 
-def _load_phrases(data):
-    print("_load_phrases()")
-
-    samples = [
-        item["text"]
-        for item in data
-        if isinstance(item, dict)
-        and "text" in item
-    ]
-
-    intention = [
-        item["intent"]
-        for item in data
-        if isinstance(item, dict)
-        and "intent" in item
-    ]
-
-    return samples, intention
-
-def _count_intentions(data, samples):
-    print("_count_intentions()")
-
-    text_to_intent = {}
-    for item in data:
-        if isinstance(item, dict) and "text" in item and "intent" in item:
-            k = item["text"]
-            if k not in text_to_intent:
-                text_to_intent[k] = str(item["intent"]).strip().lower()
-
-    counts = Counter(text_to_intent.get(t, None) for t in samples)
-    counts.pop(None, None)
-
-    qtd_pix = counts.get("pix", 0)
-    qtd_saldo = counts.get("saldo", 0)
-    qtd_limite = counts.get("limite", 0)
-
-    print("frases de pix:", qtd_pix)
-    print("frases de saldo:", qtd_saldo)
-    print("frases de limite:", qtd_limite)
-    print("total de frases:", len(samples))
-
-def _validate(model, samples, intention):
+def _validate(model, data):
     print("_validate()")
 
-    preds = model.predict(samples)
-    proba = model.predict_proba(samples)
+    preds = model.predict(data["text"])
+    proba = model.predict_proba(data["text"])
     categories = list(model.classes_)
 
-    saldo = 0
+    error = 0
     pix = 0
-    limite = 0
+    nao_pix = 0
 
     for i, y in enumerate(preds):
         j = categories.index(y)
         prob = float(proba[i, j])
 
-        if y != intention[i]:
-            print(f"{prob:.4f} | {y} | {samples[i]} | {intention[i]}")
+        try:
+            if y != data["intent"][i]:
+                print(f"Prob: {prob:.4f} | Categoria: {y} | [ Mensagem: {data["text"][i]} | Categoria: {data["intent"][i]} ]")
 
-        if y == "saldo":
-            saldo = saldo + 1
-        elif y == "pix":
-            pix = pix + 1
-        elif y == "limite":
-            limite = limite + 1
+            if y == "pix":
+                pix = pix + 1
+            else:
+                nao_pix = nao_pix + 1
+        except Exception:
+            error = error + 1
 
     print("pix:", pix)
-    print("saldo:", saldo)
-    print("limite:", limite)
+    print("nao_pix:", nao_pix)
+    print("error:", error)
