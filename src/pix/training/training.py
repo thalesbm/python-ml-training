@@ -47,7 +47,7 @@ def evals_model(pipeline, X_test, y_test):
 def save(pipeline):
     print("save()")
 
-    path = "model/pix/pix_saldo1.joblib"
+    path = "model/pix/pix_saldo1.pkl"
     joblib.dump(pipeline, path)
 
     return joblib.load(path)
