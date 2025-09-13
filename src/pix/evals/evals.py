@@ -14,8 +14,8 @@ def _load_file():
     
     data: pd.DataFrame = pd.read_json("files/pix/teste/dataset_calcada.json")
     data = data.drop_duplicates(subset=["text"])
-    data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
-    data.loc[data["intent"] == "saldo", "intent"] = "nao-pix"
+    data.loc[data["intent"] == "saldo", "intent"] = "outro"
+    data.loc[data["intent"] == "saldo", "intent"] = "outro"
 
     data["text"] = data["text"].str.lower()
 
@@ -54,3 +54,4 @@ def _validate(model, data):
     print("pix:", pix)
     print("nao_pix:", nao_pix)
     print("error:", error)
+    print(f"taxa de erro: {(nao_pix * 100 / pix):.2f} %")

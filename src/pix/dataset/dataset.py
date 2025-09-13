@@ -23,15 +23,11 @@ def load_dataset() -> pd.DataFrame:
 
     df = pd.concat(dfs, ignore_index=True).sample(frac=1.0, random_state=42).reset_index(drop=True)
 
-    df.loc[df["Intenção"] == "saldo", "Intenção"] = "nao-pix"
-    df.loc[df["Intenção"] == "limite", "Intenção"] = "nao-pix"
+    df.loc[df["Intenção"].isin(["saldo", "limite"]), "Intenção"] = "outro"
 
-    df = df.drop_duplicates(subset=["Mensagem"])
-
-    df["Mensagem"] = df["Mensagem"].str.lower()
     df["Mensagem"] = df["Mensagem"].astype(str).apply(normalize_text)
 
-    print(df.head(50))
+    df = df.drop_duplicates(subset=["Mensagem"])
 
     print(df["Intenção"].value_counts())
 
