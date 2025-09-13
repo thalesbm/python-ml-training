@@ -36,9 +36,12 @@ def evals_model(pipeline, X_test, y_test):
     print("evals()")
 
     y_pred = pipeline.predict(X_test)
-
+    
+    print("########################################")
+    print("Dados do Teste do Treinamento")
     print(classification_report(y_test, y_pred, digits=3))
     print("Matriz de confusão:\n", confusion_matrix(y_test, y_pred))
+    print("########################################")
 
 def save(pipeline):
     print("save()")

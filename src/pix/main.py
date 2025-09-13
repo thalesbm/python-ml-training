@@ -21,7 +21,7 @@ def init():
     model = save(pipeline)
 
     # teste
-    # test(model)
+    test(model)
 
     teste = [
         "quero pagar 320 para maria.silva+pagamento@example.com",

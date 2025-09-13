@@ -16,8 +16,8 @@ def load_dataset() -> pd.DataFrame:
         "files/pix/dataset_limite_girias.json",
         "files/pix/dataset_limite.json",
         "files/pix/dataset_limite_produtos.json",
-        # "files/pix/dataset_pix_2.json",
-        # "files/pix/dataset_pix_diferentes_chaves.json",
+        "files/pix/dataset_pix_2.json",
+        "files/pix/dataset_pix_diferentes_chaves.json",
     ]:
         dfs.append(pd.read_json(path))
 
@@ -30,7 +30,10 @@ def load_dataset() -> pd.DataFrame:
 
     df = df.drop_duplicates(subset=["Mensagem"])
 
+    print("########################################")
+    print("Quantidade de Intenções para treinamento")
     print(df["Intenção"].value_counts())
+    print("########################################")
 
     return df
 
@@ -44,12 +47,11 @@ def create_training_dataset(dataset: pd.DataFrame):
         X, y, test_size=0.2, stratify=y, random_state=42
     )
 
+    print("########################################")
+    print("Separação de dados para treino e teste")
     print("Treino:", len(X_train), "Teste:", len(X_test))
     print("Distribuição treino:", y_train.value_counts(normalize=True))
     print("Distribuição teste:", y_test.value_counts(normalize=True))
-    print(f"Shape de X_treino :{X_train.shape}")
-    print(f"Shape de X_teste: {X_test.shape}")
-    print(f"Shape de y_treino: {y_train.shape}")
-    print(f"Shape de y_teste: {y_test.shape}")
+    print("########################################")
 
     return X_train, X_test, y_train, y_test

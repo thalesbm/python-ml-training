@@ -24,7 +24,10 @@ def _load_file():
 
     data = data.drop_duplicates(subset=["text"])
 
+    print("########################################")
+    print("Total de Dados para Teste")
     print(data["intent"].value_counts())
+    print("########################################")
 
     return data
 
@@ -56,8 +59,11 @@ def _validate(model, data):
         else:
             nao_pix_pred += 1
 
+    print("########################################")
+    print("Resultado dos Testes")
     print("pix:", pix_pred)
     print("nao-pix:", nao_pix_pred)
     print("erros:", erros)
     print(f"taxa de erro (erros/N): {erros * 100 / len(X):.2f} %")
     print(classification_report(y_true, preds, digits=3))
+    print("########################################")
