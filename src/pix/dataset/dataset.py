@@ -16,8 +16,8 @@ def load_dataset() -> pd.DataFrame:
         "files/pix/dataset_limite_girias.json",
         "files/pix/dataset_limite.json",
         "files/pix/dataset_limite_produtos.json",
-        "files/pix/dataset_pix_2.json",
-        "files/pix/dataset_pix_diferentes_chaves.json",
+        # "files/pix/dataset_pix_2.json",
+        # "files/pix/dataset_pix_diferentes_chaves.json",
     ]:
         dfs.append(pd.read_json(path))
 
@@ -25,6 +25,7 @@ def load_dataset() -> pd.DataFrame:
 
     df.loc[df["Intenção"].isin(["saldo", "limite"]), "Intenção"] = "outro"
 
+    # com e sem isso deu o mesmo resultado
     df["Mensagem"] = df["Mensagem"].astype(str).apply(normalize_text)
 
     df = df.drop_duplicates(subset=["Mensagem"])

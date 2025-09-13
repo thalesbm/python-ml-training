@@ -1,6 +1,7 @@
 import pandas as pd
 
 from dataset.format import normalize_text
+from sklearn.metrics import classification_report
 
 def test(model):
     print("test()")
@@ -13,13 +14,15 @@ def _load_file():
     print("_load_file()")
     
     data: pd.DataFrame = pd.read_json("files/pix/teste/dataset_calcada.json")
-    data = data.drop_duplicates(subset=["text"])
     data.loc[data["intent"] == "saldo", "intent"] = "outro"
-    data.loc[data["intent"] == "saldo", "intent"] = "outro"
+    data.loc[data["intent"] == "limite", "intent"] = "outro"
 
     data["text"] = data["text"].str.lower()
 
+    # com e sem isso deu o mesmo resultado
     data["text"] = data["text"].astype(str).apply(normalize_text)
+
+    data = data.drop_duplicates(subset=["text"])
 
     print(data["intent"].value_counts())
 
@@ -28,30 +31,33 @@ def _load_file():
 def _validate(model, data):
     print("_validate()")
 
-    preds = model.predict(data["text"])
-    proba = model.predict_proba(data["text"])
-    categories = list(model.classes_)
+    X = data["text"]
+    y_true = data["intent"]
 
-    error = 0
-    pix = 0
-    nao_pix = 0
+    preds = model.predict(X)
+    proba = model.predict_proba(X)
+    classes = list(model.classes_)
 
-    for i, y in enumerate(preds):
-        j = categories.index(y)
-        prob = float(proba[i, j])
+    erros = 0
+    pix_pred = 0
+    nao_pix_pred = 0
 
-        try:
-            if y != data["intent"][i]:
-                print(f"Prob: {prob:.4f} | Categoria: {y} | [ Mensagem: {data["text"][i]} | Categoria: {data["intent"][i]} ]")
+    for i in range(len(X)):
+        y_hat = preds[i]
+        j = classes.index(y_hat)
+        p = float(proba[i, j])
 
-            if y == "pix":
-                pix = pix + 1
-            else:
-                nao_pix = nao_pix + 1
-        except Exception:
-            error = error + 1
+        if y_hat != y_true.iloc[i]:
+            print(f"Prob: {p:.4f} | Pred: {y_hat} | [ Msg: {X.iloc[i]} | True: {y_true.iloc[i]} ]")
+            erros += 1
 
-    print("pix:", pix)
-    print("nao_pix:", nao_pix)
-    print("error:", error)
-    print(f"taxa de erro: {(nao_pix * 100 / pix):.2f} %")
+        if y_hat == "pix":
+            pix_pred += 1
+        else:
+            nao_pix_pred += 1
+
+    print("pix:", pix_pred)
+    print("nao-pix:", nao_pix_pred)
+    print("erros:", erros)
+    print(f"taxa de erro (erros/N): {erros * 100 / len(X):.2f} %")
+    print(classification_report(y_true, preds, digits=3))

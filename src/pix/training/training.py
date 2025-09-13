@@ -15,17 +15,9 @@ def training_model(X_train, y_train):
 
     pipeline = Pipeline([
         ("feats", FeatureUnion([
-            ("word", TfidfVectorizer(analyzer="word", ngram_range=(1,2), min_df=2, sublinear_tf=True)),
+            # ("word", TfidfVectorizer(analyzer="word", ngram_range=(1,2), min_df=2, sublinear_tf=True)),
             ("char", TfidfVectorizer(analyzer="char_wb", ngram_range=(3,5), min_df=2, sublinear_tf=True)),
         ])),
-        # ("feats", FeatureUnion([
-        #     ("word", TfidfVectorizer(analyzer="word", ngram_range=(1,2), min_df=2, sublinear_tf=True)),
-        #         ("char", TfidfVectorizer(analyzer="char_wb", ngram_range=(3,5), min_df=2, sublinear_tf=True)),
-        #         ("flags", Pipeline([
-        #         # ("build", flags),
-        #         ("dict", DictVectorizer(sparse=True))
-        #     ])),
-        # ])),
         ("clf", 
             LogisticRegression(
                 max_iter=2000,
