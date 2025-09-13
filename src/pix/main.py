@@ -53,12 +53,10 @@ def init():
         "Preciso enviar 750 para João"
     ]
     
-    predict_one(model, teste)
+    predict_list(model, teste)
 
-def predict_one(model, text):
-    y_pred = model.predict(text)
-    proba  = model.predict_proba(text)
-    print(y_pred)
+def predict_list(model, text):
+    print(model.predict(text))
 
 if __name__ == "__main__":
     init()

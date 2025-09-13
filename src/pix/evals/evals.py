@@ -1,7 +1,7 @@
 import pandas as pd
 
 from dataset.format import normalize_text
-from sklearn.metrics import classification_report
+from sklearn.metrics import classification_report, accuracy_score
 
 def test(model):
     print("test()")

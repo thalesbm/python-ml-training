@@ -23,11 +23,13 @@ def load_dataset() -> pd.DataFrame:
 
     df = pd.concat(dfs, ignore_index=True).sample(frac=1.0, random_state=42).reset_index(drop=True)
 
+    # muda a intenção saldo e limite para categoria outra
     df.loc[df["Intenção"].isin(["saldo", "limite"]), "Intenção"] = "outro"
 
-    # com e sem isso deu o mesmo resultado
+    # normaliza o texto removendo os valores e as chaves por constantes
     df["Mensagem"] = df["Mensagem"].astype(str).apply(normalize_text)
 
+    # remove mensagens duplicadas
     df = df.drop_duplicates(subset=["Mensagem"])
 
     print("########################################")

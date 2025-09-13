@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import classification_report, confusion_matrix
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 from sklearn.pipeline import Pipeline, FeatureUnion
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import FunctionTransformer
@@ -39,7 +39,8 @@ def evals_model(pipeline, X_test, y_test):
     
     print("########################################")
     print("Dados do Teste do Treinamento")
-    print(classification_report(y_test, y_pred, digits=3))
+    print("Acurácia:", accuracy_score(y_test, y_pred))
+    print("Relatorio de Classificação:", classification_report(y_test, y_pred, digits=3))
     print("Matriz de confusão:\n", confusion_matrix(y_test, y_pred))
     print("########################################")
 

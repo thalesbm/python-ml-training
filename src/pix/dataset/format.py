@@ -14,8 +14,7 @@ def normalize_text(s: str) -> str:
     s = _RE_CPF.sub("<CPF>", s)
     s = _RE_CNPJ.sub("<CNPJ>", s)
     s = _RE_UUID.sub("<UUID>", s)
-    # valores sem "R$": manter só o número como placeholder
-    s = s.replace("r$", "")  # caso apareça
+    s = s.replace("r$", "")
     s = _RE_NUM.sub("<VAL>", s)
     s = re.sub(r"\s+", " ", s).strip()
     return s
