@@ -6,14 +6,16 @@ from sklearn.metrics import classification_report, accuracy_score
 def test(model):
     print("test()")
 
-    data = _load_file()
-
+    data = _load_file("files/pix/teste/dataset_calcada.json")
     _validate(model, data)
 
-def _load_file():
+    data = _load_file("files/pix/teste/dataset_pix_transferir_mixed.json")
+    _validate(model, data)
+
+def _load_file(path):
     print("_load_file()")
     
-    data: pd.DataFrame = pd.read_json("files/pix/teste/dataset_calcada.json")
+    data: pd.DataFrame = pd.read_json(path)
     data.loc[data["intent"] == "saldo", "intent"] = "outro"
     data.loc[data["intent"] == "limite", "intent"] = "outro"
 
@@ -51,7 +53,7 @@ def _validate(model, data):
         p = float(proba[i, j])
 
         if y_hat != y_true.iloc[i]:
-            print(f"Prob: {p:.4f} | Pred: {y_hat} | [ Msg: {X.iloc[i]} | True: {y_true.iloc[i]} ]")
+            print(f"Prob: {p:.4f} | Pred: {y_hat} | [ Correto: {y_true.iloc[i]} | Msg: {X.iloc[i]} ]")
             erros += 1
 
         if y_hat == "pix":

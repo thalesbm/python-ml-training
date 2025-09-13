@@ -10,14 +10,16 @@ def load_dataset() -> pd.DataFrame:
     dfs = []
     for path in [
         "files/pix/dataset_pix.json",
-        "files/pix/dataset_saldo.json",
+        # "files/pix/dataset_saldo.json",
         "files/pix/dataset_pix_saldo.json",
         "files/pix/dataset_pix_saldo_girias.json",
-        "files/pix/dataset_limite_girias.json",
-        "files/pix/dataset_limite.json",
-        "files/pix/dataset_limite_produtos.json",
+        # "files/pix/dataset_limite_girias.json",
+        # "files/pix/dataset_limite.json",
+        # "files/pix/dataset_limite_produtos.json",
         "files/pix/dataset_pix_2.json",
         "files/pix/dataset_pix_diferentes_chaves.json",
+        "files/pix/dataset_pix_sem_intencao_transferir.json",
+        "files/pix/dataset_pix_sem_intencao_transferir2.json",
     ]:
         dfs.append(pd.read_json(path))
 
@@ -46,7 +48,7 @@ def create_training_dataset(dataset: pd.DataFrame):
     y = dataset["Intenção"]
 
     X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=0.2, stratify=y, random_state=42
+        X, y, test_size=0.3, stratify=y, random_state=42
     )
 
     print("########################################")

@@ -50,7 +50,14 @@ def init():
         "efetue 505 para +55 85 99666-7788",
         "coloca 285 reais para 585.213.691-68"
         "Me transfira 800 via pix para Beatriz",
-        "Preciso enviar 750 para João"
+        "Preciso enviar 750 para João",
+        "o que é pix?",
+        "pra que usamos pix?",
+        "pix é taxado?"
+        "faz um pix para thales",
+        "faz um pix para thales o quanto antes",
+        "faz um pix para thales o quanto antes no valor de 50 reais",
+        "faz um pix para thales agora",
     ]
     
     predict_list(model, teste)
